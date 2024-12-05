@@ -3,10 +3,11 @@
 A Streamlit web application that transforms pixel data into high-resolution NFT images.
 
 ## Features
-- Upload JSON pixel data
+- Upload multiple JSON pixel data files
+- Preview and select individual images
 - Generate high-resolution NFT images
-- Download generated images
-- Real-time preview
+- Download individual or all images at once
+- Real-time preview with image size information
 
 ## Installation & Running Locally
 
